@@ -29,9 +29,11 @@ header p {
 
 }
 nav {
-    background-color: #fbb400;
+    background-color: #f3bf15;
     padding: 10px;
     text-align: center;
+    border-radius: 65px;
+    margin-top: auto;
 
 }
 nav ul {
@@ -43,7 +45,7 @@ nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
 
